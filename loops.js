@@ -15,5 +15,4 @@ function whileLoop(n) {
     console.log(--n);
   } else {
   console.log("done");
-  }
 }
